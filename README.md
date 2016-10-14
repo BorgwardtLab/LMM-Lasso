@@ -30,9 +30,5 @@ The folder `code` contains a subfolder `data` which contains:
 
 The data contains 1000 randomly sampled SNPs from the genotype data of A.thaliana from [Atwell et al.(2010)](http://www.nature.com/nature/journal/v465/n7298/full/nature08800.html). For simulating population-driven effects, we used the real phenotype leaf number at flowering time. Univariate analyses as done in the original paper have shown that the phenotype has an excess of associations when population structure is not accounted for. After correction, the p-values are approximately uniformly distributed.
 
-The complete data is public available and can be downloaded at:
-[https://cynin.gmi.oeaw.ac.at/home/resources/atpolydb](https://cynin.gmi.oeaw.ac.at/home/resources/atpolydb)
-
-
 
 
